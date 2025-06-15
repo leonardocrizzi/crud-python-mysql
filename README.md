@@ -8,7 +8,6 @@ Este projeto tem como foco a criação de um CRUD (CREATE, READ, UPDATE, DELETE)
 ### 🛠️ FERRAMENTAS
 Nesse projeto foi utilizado:
 - Python
-- SQL
 - DBeaver com MySQL (criação de base de dados e tabelas)
 
 ---
